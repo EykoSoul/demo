@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Label" HorizontalAlignment="Left" Margin="198,264,0,0" VerticalAlignment="Top"/>
+        <DockPanel HorizontalAlignment="Left" Height="100" LastChildFill="False" Margin="388,137,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
